@@ -27,23 +27,23 @@ Config.Opacity = 100
 
 Config.Header = {
     -- LEFT MENU CONFIG
-    ["TITLE"] = "Project Sloth",
-    ["SUBTITLE"] = "This little Script was made by Jay <3",
+    ["TITLE"] = "NAME",
+    ["SUBTITLE"] = "BIO",
 
     ["MAP"] = "Map",
-    ["GAME"] = "Exit Game",
-    ["LEAVE"] = "Return to Server List",
-    ["QUIT"] = "Return to Desktop",
+    ["GAME"] = "Quitter le jeu",
+    ["LEAVE"] = "Revenir à la liste des serveurs",
+    ["QUIT"] = "Revenir au bureau",
     ["INFO"] = "Information",
-    ["STATS"] = "Statistics",
-    ["SETTINGS"] = "Settings",
-    ["GALLERY"] = "Gallery",
-    ["KEYBIND"] = "Main Keybinds",
+    ["STATS"] = "Statistiques",
+    ["SETTINGS"] = "Paramètres",
+    ["GALLERY"] = "Galerie",
+    ["KEYBIND"] = "Raccourcis clavier principaux",
     ["EDITOR"] = "Rockstar Editor",
 
     -- RIGHT MENU CONFIG
-    ["SERVER_NAME"] = "Project Sloth",
-    ["SERVER_TEXT"] = "LeSiiN is cool",
+    ["SERVER_NAME"] = "NAME",
+    ["SERVER_TEXT"] = "BIO",
     ["SERVER_DISCORD"] = "YOUR DISCORD HERE"
 }
 
